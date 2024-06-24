@@ -1,6 +1,6 @@
-nginx
-linuxserver/webtop:ubuntu-kde
-nicolargo/glances
+--platform=linux/arm64 nginx
+--platform=linux/arm64 linuxserver/webtop:ubuntu-kde 
+--platform=linux/arm64 nicolargo/glances
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
