@@ -1,4 +1,5 @@
 --platform=linux/arm64 nginx
+--platform=linux/arm64 ubunut
 --platform=linux/arm64 louislam/uptime-kuma
 --platform=linux/arm64 nicolargo/glances
 --platform=linux/arm64 xhofe/alist:main-ffmpeg
