@@ -2,7 +2,7 @@
 --platform=linux/arm64 xhofe/alist:main-ffmpeg
 --platform=linux/arm64 louislam/uptime-kuma
 --platform=linux/arm64 nicolargo/glances
---platform=linux/arm64 postgres:alpine
+--platform=linux/arm64 postgres:15-alpine
 --platform=linux/arm64 linuxserver/code-server
 --platform=linux/arm64 n8nio/n8n
 --platform=linux/arm64 n8nio/n8n:nightly
