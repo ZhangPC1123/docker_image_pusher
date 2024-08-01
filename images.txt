@@ -4,7 +4,7 @@
 #--platform=linux/arm64 b3log/siyuan
 --platform=linux/arm64 nginx:stable-alpine
 --platform=linux/arm64 linuxserver/code-server
---platform=linux/arm64 ghcr.io/gethomepage/homepage:alpine
+--platform=linux/arm64 ghcr.io/gethomepage/homepage
 --platform=linux/arm64 postgres:alpine
 --platform=linux/arm64 louislam/uptime-kuma:alpine
 
