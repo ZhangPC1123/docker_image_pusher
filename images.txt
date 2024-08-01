@@ -2,7 +2,11 @@
 #--platform=linux/arm64 ubuntu:20.04
 #--platform=linux/arm64 nginx:stable-alpine-slim
 #--platform=linux/arm64 b3log/siyuan
---platform=linux/arm64 node:lts-slim
+--platform=linux/arm64 nginx:stable-alpine
+--platform=linux/arm64 linuxserver/code-server
+--platform=linux/arm64 ghcr.io/gethomepage/homepage:alpine
+--platform=linux/arm64 postgres:alpine
+--platform=linux/arm64 louislam/uptime-kuma:alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
