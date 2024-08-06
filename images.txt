@@ -7,7 +7,7 @@
 #--platform=linux/arm64 openspeedtest/latest
 #--platform=linux/arm64 lscr.io/linuxserver/syncthing
 #--platform=linux/arm64 xhofe/alist:main-ffmpeg
---platform=linux/arm64 hslr/sun-panel
+--platform=linux/arm64 vaultwarden/server:lastest-alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
