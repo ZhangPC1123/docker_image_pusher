@@ -8,7 +8,8 @@
 #--platform=linux/arm64 lscr.io/linuxserver/syncthing
 #--platform=linux/arm64 xhofe/alist:main-ffmpeg
 #--platform=linux/arm64 vaultwarden/server:latest-alpine
---platform=linux/arm64 netdata/netdata
+#--platform=linux/arm64 netdata/netdata
+--platform=linux/arm64 dpanel/dpanel:lite
 
 
 #支持私库
