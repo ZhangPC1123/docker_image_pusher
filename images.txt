@@ -9,7 +9,9 @@
 #--platform=linux/arm64 xhofe/alist:main-ffmpeg
 #--platform=linux/arm64 vaultwarden/server:latest-alpine
 #--platform=linux/arm64 netdata/netdata
---platform=linux/arm64 dpanel/dpanel:lite
+#--platform=linux/arm64 dpanel/dpanel:lite
+--platform=linux/arm64 searxng/searxng
+--platform=linux/arm64 teddysun/xray
 
 
 #支持私库
