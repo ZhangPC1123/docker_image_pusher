@@ -12,7 +12,8 @@
 #--platform=linux/arm64 dpanel/dpanel:lite
 #--platform=linux/arm64 searxng/searxng
 #--platform=linux/arm64 teddysun/xray
---platform=linux/arm64 redis  
+#--platform=linux/arm64 redis
+--platform=linux/arm64 valkey/valkey:7-alpine
 
 
 #支持私库
