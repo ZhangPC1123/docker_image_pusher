@@ -13,7 +13,7 @@
 #--platform=linux/arm64 searxng/searxng
 #--platform=linux/arm64 teddysun/xray
 #--platform=linux/arm64 redis
---platform=linux/arm64 valkey/valkey:7-alpine
+--platform=linux/arm64 sickcodes/docker-osx
 
 
 #支持私库
