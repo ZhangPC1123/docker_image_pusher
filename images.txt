@@ -13,8 +13,9 @@
 #--platform=linux/arm64 searxng/searxng
 #--platform=linux/arm64 teddysun/xray
 #--platform=linux/arm64 redis
-sickcodes/docker-osx
-
+#sickcodes/docker-osx
+--platform=linux/arm64 ajslater/codex
+--platform=linux/arm64 linuxserver/code-server
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
