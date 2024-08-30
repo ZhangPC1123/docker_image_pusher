@@ -28,7 +28,7 @@
 #--platform=linux/arm64  gotson/komga
 #--platform=linux/arm64 lscr.io/linuxserver/healthchecks
 #--platform=linux/arm64 ghcr.io/gotify/server
---platform=linux/arm64 ghcr.io/gotify/server-arm64
+--platform=linux/arm64 caronc/apprise
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
