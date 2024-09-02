@@ -7,7 +7,7 @@
 #--platform=linux/arm64 openspeedtest/latest
 #--platform=linux/arm64 lscr.io/linuxserver/syncthing
 #--platform=linux/arm64 xhofe/alist:main-ffmpeg
---platform=linux/arm64 vaultwarden/server:latest-alpine
+#--platform=linux/arm64 vaultwarden/server:latest-alpine
 #--platform=linux/arm64 netdata/netdata
 #--platform=linux/arm64 dpanel/dpanel:lite
 #--platform=linux/arm64 searxng/searxng
@@ -25,7 +25,7 @@
 #--platform=linux/arm64 ghcr.io/gethomepage/homepage
 #--platform=linux/arm64 postgres:alpine
 #--platform=linux/arm64 neilpang/acme.sh
-#--platform=linux/arm64  gotson/komga
+--platform=linux/arm64 gotson/komga
 #--platform=linux/arm64 lscr.io/linuxserver/healthchecks
 #--platform=linux/arm64 ghcr.io/gotify/server
 #--platform=linux/arm64 caronc/apprise
